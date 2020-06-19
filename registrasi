@@ -1,0 +1,23 @@
+#include <stdio.h>
+
+int main()
+{
+int u = 19;
+	printf("Nama	: %s \n", "Ace Hermawan");
+	printf("Npm	: %d \n", 197006001);
+	printf("Kelompok: %d \n" , 5);
+	printf("\n");
+   
+   printf("---- Program Registrasi Akun Email Unsil ---\n");
+   printf("***********======================***********\n");
+   printf("\n");
+	printf("Nama Depan: %s\n","Ace");
+	printf("Nama Belakang: %s\n","Hermawan");
+	printf("No.HP: %s\n","085721363606");
+	printf("Usia: %i tahun\n", u);
+	printf("\n");
+	printf("Alamat email anda %s\n","acehermawan@student.unsil.ac.id");
+ 	return 0;
+	
+	
+}
